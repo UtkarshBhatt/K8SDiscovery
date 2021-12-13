@@ -16,4 +16,4 @@ spring:
 #            name: c3
       discovery:
         all-namespaces: true
-        enabled: false
+        enabled: true
